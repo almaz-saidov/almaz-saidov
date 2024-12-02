@@ -1,12 +1,3 @@
-<head>
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <style>
-        i {
-            font-size: 50px;
-        }
-    </style>
-</head>
-<body>
 <div id="header" align="center">
     <h1>Hi there, I'm Almaz</h1>
     <h3>Python Developer from Kazan</h3>
@@ -22,18 +13,16 @@
 - I’m currently studying at **School 21** and learning **Backend, Data Science**
 - Reach me by: [Telegram](https://t.me/bombix_enjoyer), [email](mailto:almaz.saidov.03@bk.ru)
 
-
-
 ### Languages and tools
-<i class="devicon-python-plain-wordmark" title="python"></i>
-<i class="devicon-cplusplus-plain" title="c++"></i>
-<i class="devicon-postgresql-plain-wordmark" title="postgresql"></i>
-<i class="devicon-bash-plain" title="bash"></i>
-<i class="devicon-git-plain-wordmark" title="git"></i>
-<i class="devicon-gitlab-plain-wordmark" title="gitlab"></i>
-<i class="devicon-github-original" title="github"></i>
-<i class="devicon-vscode-plain-wordmark" title="vscode"></i>
-</body>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" title="bash" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="git" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" title="gitlab" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="github" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" width="50"/>
+
 
 
 

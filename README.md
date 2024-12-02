@@ -32,12 +32,8 @@
 <div style="display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" title="gitlab" width="50"/>
 </div>
-<div style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="github" width="50"/>
-</div>
-<div style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" width="50"/>
-</div>
+    <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="github" width="50"/>
+<img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" width="50"/>
 
 
 

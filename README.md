@@ -1,10 +1,12 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<style>
-    i {
-        font-size: 50px;
-    }
-</style>
-
+<head>
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <style>
+        i {
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
 <div id="header" align="center">
     <h1>Hi there, I'm Almaz</h1>
     <h3>Python Developer from Kazan</h3>
@@ -31,7 +33,7 @@
 <i class="devicon-gitlab-plain-wordmark" title="gitlab"></i>
 <i class="devicon-github-original" title="github"></i>
 <i class="devicon-vscode-plain-wordmark" title="vscode"></i>
-
+</body>
 
 
 

@@ -11,7 +11,7 @@
 
 ### About me
 - I’m currently studying at **School 21** and learning **Backend, Data Science**
-- Reach me by: [Telegram](https://t.me/bombix_enjoyer), [email](mailto:almaz.saidov.03@bk.ru)
+- Reach me by: [Telegram](https://t.me/bombix_enjoyer)
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" width="50"/>&nbsp;
@@ -22,6 +22,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" title="gitlab" width="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" width="50"/>&nbsp;
 
+### My statistics
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almaz-saidov&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=almaz-saidov&theme=default" width="200"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almaz-saidov&theme=default" width="200"/>
+</div>
 
 
 

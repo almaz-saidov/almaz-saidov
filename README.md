@@ -10,7 +10,7 @@
 </div>
 
 ### About me
-- I’m currently studying at **School 21** and learning **Backend, Data Science**
+- I’m currently studying at **School 21** and learning **Backend**
 - Reach me by: [Telegram](https://t.me/bombix_enjoyer)
 
 ### Languages and tools
@@ -29,6 +29,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=almaz-saidov" width="300"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almaz-saidov" width="300"/>
 </div>
-
-
-

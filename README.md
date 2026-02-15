@@ -26,7 +26,7 @@
 ### My statistics
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almaz-saidov&random=1770516541"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=almaz-saidov&random=1770516541" width="300"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almaz-saidov&random=1770516541" width="300"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almaz-saidov&random=1771120455"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=almaz-saidov&random=1771120455" width="300"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almaz-saidov&random=1771120455" width="300"/>
 </div>
